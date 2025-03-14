@@ -17,7 +17,7 @@
 // Apply the following operation twice to make the maximum achievable number equal to num:
 // Decrease the maximum achievable number by 1, and increase num by 1.
 
-public class MaximumAchievableNumber {
+public class MaximumAchievableNumber3_14_25 {
     class MySolution {
         public int theMaximumAchievableX(int num, int t) {
             return num + (t * 2);
